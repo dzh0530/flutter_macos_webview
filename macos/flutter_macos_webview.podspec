@@ -18,5 +18,5 @@ Flutter plugin that lets you display native WebView on macOS
 
   s.platform = :osx, '10.14'
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
-  s.swift_version = '5.0'
+  s.swift_version = '4.2'
 end
